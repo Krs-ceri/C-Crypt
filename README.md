@@ -6,4 +6,4 @@ Lors de l'encryptage, il lis, ligne par ligne, le fichier et rentre en mode "app
 Lors du décryptage, le programme prend ligne par ligne le fichier, puis le supprime, en affichant un message validant sssa suppréssion.
 
 
-[https://github.com/Krs-ceri/C-Crypt]{git}
+https://github.com/Krs-ceri/C-Crypt
